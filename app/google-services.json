@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423162770802",
+    "project_id": "p2glet-chat-999c2",
+    "storage_bucket": "p2glet-chat-999c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423162770802:android:39ef8d1a35a321d3d219eb",
+        "android_client_info": {
+          "package_name": "com.example.p2glet_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423162770802-je0pvn5dpnuk9lg5ousad97uvnd8hv5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmdPHbHVl5MmJSJAV2Jui4JSx_wroOIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423162770802-je0pvn5dpnuk9lg5ousad97uvnd8hv5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
